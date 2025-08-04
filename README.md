@@ -376,7 +376,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/tarunkanakala/)
+- **LinkedIn:** [https://linkedin.com/in/tarunkanakala/](https://linkedin.com/in/tarunkanakala/)
 - **Email:** tarunkanakala123@gmail.com
 
 
