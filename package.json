@@ -1,0 +1,76 @@
+{
+    "name": "health-expenditure-clustering",
+    "version": "1.0.0",
+    "description": "Enterprise BI dashboard analyzing global health expenditure patterns with advanced clustering algorithms",
+    "keywords": [
+      "business-intelligence",
+      "data-visualization",
+      "clustering",
+      "healthcare-analytics",
+      "react",
+      "power-bi",
+      "enterprise-dashboard"
+    ],
+    "author": {
+      "name": "TARUN KUMAR KANAKALA",
+      "email": "tarunkanakala123@gmail.com",
+      "url": "https://www.linkedin.com/in/tarunkanakala/"
+    },
+    "contributors": [
+      {
+        "name": "Nikshitha Reddy Aella",
+        "role": "Data Analysis & Visualization Design"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://health-expenditure-dashboard.com",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/yourusername/health-expenditure-clustering.git"
+    },
+    "bugs": {
+      "url": "https://github.com/yourusername/health-expenditure-clustering/issues"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject",
+      "lint": "eslint src/",
+      "lint:fix": "eslint src/ --fix",
+      "test:coverage": "npm test -- --coverage --watchAll=false"
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-scripts": "5.0.1",
+      "recharts": "^2.8.0",
+      "lucide-react": "^0.263.1",
+      "lodash": "^4.17.21",
+      "papaparse": "^5.4.1",
+      "mathjs": "^11.11.0"
+    },
+    "devDependencies": {
+      "@testing-library/jest-dom": "^5.16.4",
+      "@testing-library/react": "^13.3.0",
+      "@testing-library/user-event": "^13.5.0",
+      "eslint": "^8.23.0",
+      "prettier": "^2.7.1"
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    },
+    "engines": {
+      "node": ">=16.0.0",
+      "npm": ">=8.0.0"
+    }
+  }
